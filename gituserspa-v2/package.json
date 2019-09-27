@@ -1,0 +1,19 @@
+{
+  "name": "gituserspa-v2",
+  "version": "1.0.0",
+  "description": "Create in your index.html file div tag with id - \"app\". Import scripts, first home.component.js then others. Call app with globally saved property 'HomeComp' or 'H$' passing in argument selector with id you created. \r exp. H$('app');",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://HaykGhonakhchyan@bitbucket.org/HaykGhonakhchyan/gituserspa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/HaykGhonakhchyan/gituserspa#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
